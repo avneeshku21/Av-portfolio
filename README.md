@@ -1,4 +1,4 @@
-# Shoea - Online Shoe Shop
+# TShoe Shop
 
 Welcome to Shoea, an online shoe shop! This repository contains the code for both the server and front-end of the application.
 
