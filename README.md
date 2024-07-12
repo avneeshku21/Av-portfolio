@@ -20,3 +20,4 @@ To set up the application locally, follow these steps:
 ## Tools
 1. HTML
 2. Tailwind CSS
+3. JavaScript
