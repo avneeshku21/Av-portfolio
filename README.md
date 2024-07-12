@@ -1,10 +1,10 @@
 # TShoe Shop
 
-Welcome to Shoea, an online shoe shop! This repository contains the code for both the server and front-end of the application.
+Welcome to Shoea, an online shoe shop! This repository contains the code for the application's server and front end.
 
 ## Description
 
-Shoea is a web-based application built to provide users with a seamless shopping experience for shoes. The front-end of the application is developed using vanilla JavaScript, HTML, CSS, and Bootstrap. The server-side code handles various functionalities like managing inventory, processing orders, and handling user authentication.
+Shoes is a web-based application built to provide users with a seamless shopping experience for shoes. The application's front end is developed using vanilla JavaScript, HTML, CSS, and Bootstrap. The server-side code handles various functionalities like managing inventory, processing orders, and handling user authentication.
 
 ## Installation
 
